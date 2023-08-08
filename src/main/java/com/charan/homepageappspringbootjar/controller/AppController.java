@@ -12,7 +12,7 @@ public class AppController {
 	}
 
 	@RequestMapping("/admin")
-	public String loadHomepage() {
+	public String loadAdminpage() {
 		return "admin";
 	}
 	
