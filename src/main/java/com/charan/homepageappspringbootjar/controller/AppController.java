@@ -11,16 +11,5 @@ public class AppController {
 		return "index";
 	}
 
-	// @RequestMapping("/admin")
-	// public String loadAdminpage() {
-	// 	return "admin";
-	// }
-
-
-	@RequestMapping("/admin")
-	public String adminPage() {
-		return "admin";
-	}
-
 	
 }
