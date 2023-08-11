@@ -14,7 +14,7 @@
 		<div class="wrapper">
 			<ul class="nav-area">
 				<li><a href="#">Home</a></li>
-				<li><a href="admin.jsp">Admin</a></li>
+				<li><a href="admin">Admin</a><li>
 				<li><a href="#">About</a></li>
 				<li><a href="#">Services</a></li>
 				<li><a href="#">Portfolio</a></li>
