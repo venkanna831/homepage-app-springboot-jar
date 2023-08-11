@@ -11,5 +11,10 @@ public class AppController {
 		return "index";
 	}
 
+	  @RequestMapping("/admin")
+    	  public String adminPage() {
+            return "admin";
+          }
+
 	
 }
