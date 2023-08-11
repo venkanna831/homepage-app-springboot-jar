@@ -1,11 +1,11 @@
-<%@ page contentType="text/html;charset=UTF-8"%>
 <html>
-<head>
-    <title>Home page</title>
-</head>
-<body>
-    <div>
-        Welcome to Admin Page!
-    </div>
-</body>
+  <head>
+    <title>Admin Page</title>
+  </head>
+  <body>
+    <h1>Admin Page</h1>
+
+    <!-- Add your code here -->
+
+  </body>
 </html>
