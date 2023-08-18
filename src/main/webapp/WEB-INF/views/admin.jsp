@@ -8,6 +8,7 @@
       #content { padding: 10px; }
       #footer { background-color: #ccc; padding: 10px; text-align: center; }
     </style>
+  <link href="../resources/css/index.style2.css" rel="stylesheet">
   </head>
 
   <body>
