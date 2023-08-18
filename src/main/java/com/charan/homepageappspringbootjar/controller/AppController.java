@@ -10,6 +10,10 @@ public class AppController {
 	public String loadHomepage() {
 		return "index";
 	}
+	@RequestMapping("/admin")
+	public String adminPage() {
+	        return "admin";
+	}
 
 	
 }
