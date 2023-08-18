@@ -14,12 +14,9 @@
   <body>
 
     <div id="main">
-
-      <div id="header">Header</div>
-
-      <div id="content">Content</div>
-
-      <div id="footer">Footer</div>
+      
+      
+      <div id="footer">Welcome to Admin page</div>
 
     </div><!-- end main -->
 
