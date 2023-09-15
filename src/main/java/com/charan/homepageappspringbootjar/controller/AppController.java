@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class AppController {
-	private int unusedField;
 
 	@RequestMapping("/")
 	public String loadHomepage() {
